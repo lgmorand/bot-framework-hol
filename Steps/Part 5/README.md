@@ -32,3 +32,13 @@ Select the table and you can preview the available "columns" which will be usabl
 You can now place charts and map them to your data. If you want specific value, like calculated values, you can add them in the data source screen
 
 ![publish](botsurvey28.png)
+
+We'll not go into details to create the report because it will depend on your needs but you can find a lot of help on PowerBI on the official WebSite.
+
+![publish](botsurvey29.png)
+
+This lab is finished!
+
+## To go further
+
+Add natural langage to your chatbot: [https://docs.botframework.com/en-us/node/builder/guides/understanding-natural-language/](https://docs.botframework.com/en-us/node/builder/guides/understanding-natural-language/)
