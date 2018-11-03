@@ -23,7 +23,7 @@ This lab could be finished within **one hour or maximum two hours** if you take 
 
 ## Lab's steps
 
-Step 1: [Create a bot](Steps/Part 1/README.md)
+Step 1: [Create a bot](Steps/Part%201/README.md)
 
 Step 2: [Implement a survey discussion (Form Flow)](Steps/Part 2/README.md)
 
