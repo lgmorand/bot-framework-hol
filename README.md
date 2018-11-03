@@ -25,10 +25,10 @@ This lab could be finished within **one hour or maximum two hours** if you take 
 
 Step 1: [Create a bot](Steps/Part%201/README.md)
 
-Step 2: [Implement a survey discussion (Form Flow)](Steps/Part 2/README.md)
+Step 2: [Implement a survey discussion (Form Flow)](Steps/Part%202/README.md)
 
-Step 3: [Deploy the bot](Steps/Part 3/README.md)
+Step 3: [Deploy the bot](Steps/Part%203/README.md)
 
-Step 4: [Store data in azure](Steps/Part 4/README.md)
+Step 4: [Store data in azure](Steps/Part%204/README.md)
 
-Step 5: [Build a report](Steps/Part 5/README.md)
+Step 5: [Build a report](Steps/Part%205/README.md)
